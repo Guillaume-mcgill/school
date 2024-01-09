@@ -1,0 +1,3 @@
+studentName: RODIER GUILLAUME
+studentID: 260975661
+programmingLanguage: PYTHON 3
